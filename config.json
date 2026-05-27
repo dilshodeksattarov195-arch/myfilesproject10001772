@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypync",
+        "uuid": 1855284,
+        "checksum": "wzkook"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
